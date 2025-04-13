@@ -7,7 +7,7 @@
 <p align="center">
   A feature-loaded remote access toolkit built for **control**, **stealth**, and a bit of chaos.  
   <br><br>
-  💻 Custom fun panel • 🧠 Auto XMR miner • 🎯 Surveillance tools • 🔧 Built-in spoofers  
+  💻 Custom fun panel • 🧠 Auto XMR miner • 🎯 Surveillance tools • 🔧 Built-in spoofers  👌 100% Fully undetactable Payload ensured 
 </p>
 
 <p align="center">
@@ -26,7 +26,9 @@
 ### 🖥️ Fun Panel
 - Message box spammer, sound annoyers, fake error pop-ups
 - Clipboard hijacking & keyboard flipping
-- Screen flip, image pop-ins, and full "haunt mode"
+- Screen flip, image pop-ins, and full haunt mode
+- Virus sender more than 100+ virus from safe to Pc "Melter " (idk why i added that shit)
+- Chat With victim
 
 ### 🪙 XMR Miner
 - Auto-deployed Monero miner
@@ -38,17 +40,20 @@
 - Webcam access & microphone logger
 - Full registry editor
 - Task manager & remote shell
+- View screen
+- Video Call with user 
 
 ### 🧼 Persistence & Spoofing
 - Startup injection
 - Binder with legit apps
 - HWID / MAC / IP spoofers
+- Fud Payload
 
 ---
 
 ## 📸 Screenshots
 
-> _Sneak peek of the panel in action coming soon..._
+> _Sneak peek of the panel in action coming soon you can try yourself in the discord linked down below 30 Day Free Trial..._
 
 ---
 
@@ -56,8 +61,8 @@
 
 | Resource | Link |
 |---------|------|
-| 🔗 Website | [webtinq.nl/NeverWhere](https://webtinq.nl/NeverWhere/index.html) |
-| 💬 Discord | [dsc.gg/Noxiusquad](https://dsc.gg/Noxiusquad) |
+| 🔗 Website (Needs Login In discord) | [webtinq.nl/NeverWhere](https://webtinq.nl/NeverWhere/index.html) |
+| 💬 Discord To buy + free tools | [dsc.gg/Noxiusquad](https://dsc.gg/Noxiusquad) |
 | 🛠️ Dev Team | NoxiuSquad |
 
 ---
