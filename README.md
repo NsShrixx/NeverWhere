@@ -5,7 +5,7 @@
 <h1 align="center">NeverWhere Rat 🐀</h1>
 
 <p align="center">
-  A feature-loaded remote access toolkit built for **control**, **stealth**, and a bit of chaos.  
+  A feature-loaded remote access toolkit built for control, stealth, and a bit of chaos.  
   <br><br>
   💻 Custom fun panel • 🧠 Auto XMR miner • 🎯 Surveillance tools • 🔧 Built-in spoofers  👌 100% Fully undetactable Payload ensured 
 </p>
